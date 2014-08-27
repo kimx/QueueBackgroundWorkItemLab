@@ -1,0 +1,6 @@
+E:\GitHub\QueueBackgroundWorkItemLab\QueueBackgroundWorkItemLab\bin\QueueBackgroundWorkItemLab.dll.config
+E:\GitHub\QueueBackgroundWorkItemLab\QueueBackgroundWorkItemLab\bin\QueueBackgroundWorkItemLab.dll
+E:\GitHub\QueueBackgroundWorkItemLab\QueueBackgroundWorkItemLab\bin\QueueBackgroundWorkItemLab.pdb
+E:\GitHub\QueueBackgroundWorkItemLab\QueueBackgroundWorkItemLab\obj\Debug\QueueBackgroundWorkItemLab.csprojResolveAssemblyReference.cache
+E:\GitHub\QueueBackgroundWorkItemLab\QueueBackgroundWorkItemLab\obj\Debug\QueueBackgroundWorkItemLab.dll
+E:\GitHub\QueueBackgroundWorkItemLab\QueueBackgroundWorkItemLab\obj\Debug\QueueBackgroundWorkItemLab.pdb
